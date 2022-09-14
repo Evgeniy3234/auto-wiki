@@ -1,0 +1,29 @@
+.card-img-top{
+
+    width: 598px; 
+    height: 350px; 
+}
+.logo{
+    width: 100%; 
+    /* height: 600px; */
+}
+.logo1{
+    height: 400px; 
+}
+
+.col{
+    padding-top: 2%;
+}
+
+.errorTable{
+    position: relative;
+    margin-left: 40%;
+    width: 500px;
+}
+.error{
+    padding: 2%;
+}
+.list-group-item{
+    min-width: 250px;
+    max-width: 600px;
+}
